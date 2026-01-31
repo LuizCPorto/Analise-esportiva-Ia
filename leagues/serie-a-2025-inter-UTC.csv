@@ -1,0 +1,39 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+10,1,25/08/2025 18:45,San Siro,Inter,Torino,5 - 0
+19,2,31/08/2025 18:45,San Siro,Inter,Udinese,1 - 2
+22,3,13/09/2025 16:00,Juventus Stadium,Juventus,Inter,4 - 3
+37,4,21/09/2025 18:45,San Siro,Inter,Sassuolo,2 - 1
+41,5,27/09/2025 18:45,Unipol Domus,Cagliari,Inter,0 - 2
+54,6,04/10/2025 16:00,San Siro,Inter,Cremonese,4 - 1
+69,7,18/10/2025 18:45,Olimpico,Roma,Inter,0 - 1
+77,8,25/10/2025 16:00,Diego Armando Maradona,Napoli,Inter,3 - 1
+86,9,29/10/2025 19:45,San Siro,Inter,Fiorentina,3 - 0
+100,10,02/11/2025 11:30,Marcantonio Bentegodi,Hellas Verona,Inter,1 - 2
+105,11,09/11/2025 19:45,San Siro,Inter,Lazio,2 - 0
+115,12,23/11/2025 19:45,San Siro,Inter,Milan,0 - 1
+129,13,30/11/2025 14:00,Garibaldi,Pisa,Inter,0 - 2
+133,14,06/12/2025 17:00,San Siro,Inter,Como,4 - 0
+144,15,14/12/2025 17:00,Luigi Ferraris,Genoa,Inter,1 - 2
+155,16,14/01/2026 19:45,San Siro,Inter,Lecce,1 - 0
+170,17,28/12/2025 19:45,Atleti Azzurri d'Italia,Atalanta,Inter,0 - 1
+176,18,04/01/2026 19:45,San Siro,Inter,Bologna,3 - 1
+187,19,07/01/2026 19:45,Ennio Tardini,Parma,Inter,0 - 2
+195,20,11/01/2026 19:45,San Siro,Inter,Napoli,2 - 2
+208,21,17/01/2026 14:00,Friuli,Udinese,Inter,0 - 1
+215,22,23/01/2026 19:45,San Siro,Inter,Pisa,6 - 2
+224,23,01/02/2026 17:00,Giovanni Zini,Cremonese,Inter,
+232,24,08/02/2026 17:00,Mapei Stadium - Città del Tricolore,Sassuolo,Inter,
+244,25,15/02/2026 14:00,San Siro,Inter,Juventus,
+257,26,22/02/2026 14:00,Ettore Giardiniero - Via del mare,Lecce,Inter,
+262,27,01/03/2026 14:00,San Siro,Inter,Genoa,
+279,28,08/03/2026 14:00,San Siro,Milan,Inter,
+283,29,15/03/2026 14:00,San Siro,Inter,Atalanta,
+295,30,22/03/2026 14:00,Artemio Franchi,Fiorentina,Inter,
+302,31,04/04/2026 13:00,San Siro,Inter,Roma,
+314,32,12/04/2026 13:00,Giuseppe Sinigaglia,Como,Inter,
+321,33,19/04/2026 13:00,San Siro,Inter,Cagliari,
+339,34,26/04/2026 13:00,Olimpico Grande Torino,Torino,Inter,
+345,35,03/05/2026 13:00,San Siro,Inter,Parma,
+355,36,10/05/2026 13:00,Olimpico,Lazio,Inter,
+365,37,17/05/2026 13:00,San Siro,Inter,Hellas Verona,
+371,38,24/05/2026 13:00,Renato Dall'Ara,Bologna,Inter,

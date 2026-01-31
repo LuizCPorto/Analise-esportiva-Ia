@@ -1,0 +1,35 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+6,1,16/08/2025 17:00,Stade Louis II,AS Monaco,Havre Athletic Club,3 - 1
+11,2,24/08/2025 18:45,Stade Pierre-Mauroy,LOSC Lille,AS Monaco,1 - 0
+24,3,31/08/2025 15:15,Stade Louis II,AS Monaco,RC Strasbourg Alsace,3 - 2
+28,4,13/09/2025 19:05,Stade de l'Abbé-Deschamps,AJ Auxerre,AS Monaco,1 - 2
+43,5,21/09/2025 15:15,Stade Louis II,AS Monaco,FC Metz,5 - 2
+48,6,27/09/2025 15:00,Stade du Moustoir,FC Lorient,AS Monaco,3 - 1
+61,7,05/10/2025 15:15,Stade Louis II,AS Monaco,OGC Nice,2 - 2
+64,8,18/10/2025 17:00,Stade Raymond Kopa,Angers SCO,AS Monaco,1 - 1
+79,9,25/10/2025 17:00,Stade Louis II,AS Monaco,Toulouse FC,1 - 0
+86,10,29/10/2025 20:05,Stade de la Beaujoire,FC Nantes,AS Monaco,3 - 5
+95,11,01/11/2025 18:00,Stade Louis II,AS Monaco,Paris FC,0 - 1
+106,12,08/11/2025 20:05,Stade Louis II,AS Monaco,RC Lens,1 - 4
+116,13,22/11/2025 18:00,Roazhon Park,Stade Rennais FC,AS Monaco,4 - 1
+124,14,29/11/2025 16:00,Stade Louis II,AS Monaco,Paris Saint-Germain,1 - 0
+128,15,05/12/2025 18:00,Stade Francis-Le Blé,Stade Brestois 29,AS Monaco,1 - 0
+140,16,14/12/2025 19:45,Stade Vélodrome,Olympique de Marseille,AS Monaco,1 - 0
+150,17,03/01/2026 16:00,Stade Louis II,AS Monaco,Olympique Lyonnais,1 - 3
+157,18,16/01/2026 18:00,Stade Louis II,AS Monaco,FC Lorient,1 - 3
+165,19,24/01/2026 18:00,Stade Océane,Havre Athletic Club,AS Monaco,0 - 0
+176,20,31/01/2026 20:05,Stade Louis II,AS Monaco,Stade Rennais FC,
+188,21,08/02/2026 14:00,Allianz Riviera,OGC Nice,AS Monaco,
+196,22,14/02/2026 23:00,Stade Louis II,AS Monaco,FC Nantes,
+202,23,21/02/2026 23:00,Stade Bollaert-Delelis,RC Lens,AS Monaco,
+213,24,28/02/2026 23:00,Stade Louis II,AS Monaco,Angers SCO,
+224,25,07/03/2026 23:00,Parc des Princes,Paris Saint-Germain,AS Monaco,
+231,26,14/03/2026 23:00,Stade Louis II,AS Monaco,Stade Brestois 29,
+237,27,21/03/2026 23:00,Parc Olympique Lyonnais,Olympique Lyonnais,AS Monaco,
+250,28,04/04/2026 22:00,Stade Louis II,AS Monaco,Olympique de Marseille,
+259,29,11/04/2026 22:00,Stade Charléty,Paris FC,AS Monaco,
+267,30,18/04/2026 22:00,Stade Louis II,AS Monaco,AJ Auxerre,
+279,31,25/04/2026 22:00,Stadium de Toulouse,Toulouse FC,AS Monaco,
+283,32,02/05/2026 22:00,Stade Saint-Symphorien,FC Metz,AS Monaco,
+294,33,08/05/2026 22:00,Stade Louis II,AS Monaco,LOSC Lille,
+306,34,15/05/2026 22:00,Stade de la Meinau,RC Strasbourg Alsace,AS Monaco,
