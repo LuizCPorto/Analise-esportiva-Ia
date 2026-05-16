@@ -1,0 +1,307 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+9,1,15/08/2025 18:45,Roazhon Park,Stade Rennais FC,Olympique de Marseille,1 - 0
+4,1,16/08/2025 15:00,Stade Bollaert-Delelis,RC Lens,Olympique Lyonnais,0 - 1
+6,1,16/08/2025 17:00,Stade Louis II,AS Monaco,Havre Athletic Club,3 - 1
+8,1,16/08/2025 19:05,Allianz Riviera,OGC Nice,Toulouse FC,0 - 1
+3,1,17/08/2025 13:00,Stade Francis-Le Blé,Stade Brestois 29,LOSC Lille,3 - 3
+1,1,17/08/2025 15:15,Stade Raymond Kopa,Angers SCO,Paris FC,1 - 0
+2,1,17/08/2025 15:15,Stade de l'Abbé-Deschamps,AJ Auxerre,FC Lorient,1 - 0
+5,1,17/08/2025 15:15,Stade Saint-Symphorien,FC Metz,RC Strasbourg Alsace,0 - 1
+7,1,17/08/2025 20:45,Stade de la Beaujoire,FC Nantes,Paris Saint-Germain,0 - 1
+16,2,22/08/2025 18:45,Parc des Princes,Paris Saint-Germain,Angers SCO,1 - 0
+14,2,23/08/2025 15:00,Stade Vélodrome,Olympique de Marseille,Paris FC,5 - 2
+15,2,23/08/2025 17:00,Allianz Riviera,OGC Nice,AJ Auxerre,3 - 1
+13,2,23/08/2025 19:05,Parc Olympique Lyonnais,Olympique Lyonnais,FC Metz,3 - 0
+12,2,24/08/2025 13:00,Stade du Moustoir,FC Lorient,Stade Rennais FC,4 - 0
+10,2,24/08/2025 15:15,Stade Océane,Havre Athletic Club,RC Lens,1 - 2
+17,2,24/08/2025 15:15,Stade de la Meinau,RC Strasbourg Alsace,FC Nantes,1 - 0
+18,2,24/08/2025 15:15,Stadium de Toulouse,Toulouse FC,Stade Brestois 29,2 - 0
+11,2,24/08/2025 18:45,Stade Pierre-Mauroy,LOSC Lille,AS Monaco,1 - 0
+21,3,29/08/2025 18:45,Stade Bollaert-Delelis,RC Lens,Stade Brestois 29,3 - 1
+22,3,30/08/2025 15:00,Stade du Moustoir,FC Lorient,LOSC Lille,1 - 7
+25,3,30/08/2025 17:00,Stade de la Beaujoire,FC Nantes,AJ Auxerre,1 - 0
+27,3,30/08/2025 19:05,Stadium de Toulouse,Toulouse FC,Paris Saint-Germain,3 - 6
+19,3,31/08/2025 13:00,Stade Raymond Kopa,Angers SCO,Stade Rennais FC,1 - 1
+20,3,31/08/2025 15:15,Stade Océane,Havre Athletic Club,OGC Nice,3 - 1
+24,3,31/08/2025 15:15,Stade Louis II,AS Monaco,RC Strasbourg Alsace,3 - 2
+26,3,31/08/2025 15:15,Stade Charléty,Paris FC,FC Metz,3 - 2
+23,3,31/08/2025 18:45,Parc Olympique Lyonnais,Olympique Lyonnais,Olympique de Marseille,1 - 0
+31,4,12/09/2025 18:45,Stade Vélodrome,Olympique de Marseille,FC Lorient,4 - 0
+33,4,13/09/2025 15:00,Allianz Riviera,OGC Nice,FC Nantes,1 - 0
+28,4,13/09/2025 19:05,Stade de l'Abbé-Deschamps,AJ Auxerre,AS Monaco,1 - 2
+30,4,14/09/2025 13:00,Stade Pierre-Mauroy,LOSC Lille,Toulouse FC,2 - 1
+29,4,14/09/2025 15:15,Stade Francis-Le Blé,Stade Brestois 29,Paris FC,1 - 2
+32,4,14/09/2025 15:15,Stade Saint-Symphorien,FC Metz,Angers SCO,1 - 1
+34,4,14/09/2025 15:15,Parc des Princes,Paris Saint-Germain,RC Lens,2 - 0
+36,4,14/09/2025 15:15,Stade de la Meinau,RC Strasbourg Alsace,Havre Athletic Club,1 - 0
+35,4,14/09/2025 18:45,Roazhon Park,Stade Rennais FC,Olympique Lyonnais,3 - 1
+41,5,19/09/2025 18:45,Parc Olympique Lyonnais,Olympique Lyonnais,Angers SCO,1 - 0
+44,5,20/09/2025 15:00,Stade de la Beaujoire,FC Nantes,Stade Rennais FC,2 - 2
+38,5,20/09/2025 17:00,Stade Francis-Le Blé,Stade Brestois 29,OGC Nice,4 - 1
+40,5,20/09/2025 19:05,Stade Bollaert-Delelis,RC Lens,LOSC Lille,3 - 0
+45,5,21/09/2025 13:00,Stade Charléty,Paris FC,RC Strasbourg Alsace,2 - 3
+37,5,21/09/2025 15:15,Stade de l'Abbé-Deschamps,AJ Auxerre,Toulouse FC,1 - 0
+39,5,21/09/2025 15:15,Stade Océane,Havre Athletic Club,FC Lorient,1 - 1
+43,5,21/09/2025 15:15,Stade Louis II,AS Monaco,FC Metz,5 - 2
+42,5,22/09/2025 18:00,Stade Vélodrome,Olympique de Marseille,Paris Saint-Germain,1 - 0
+53,6,26/09/2025 18:45,Stade de la Meinau,RC Strasbourg Alsace,Olympique de Marseille,1 - 2
+48,6,27/09/2025 15:00,Stade du Moustoir,FC Lorient,AS Monaco,3 - 1
+54,6,27/09/2025 17:00,Stadium de Toulouse,Toulouse FC,FC Nantes,2 - 2
+51,6,27/09/2025 19:05,Parc des Princes,Paris Saint-Germain,AJ Auxerre,2 - 0
+50,6,28/09/2025 13:00,Allianz Riviera,OGC Nice,Paris FC,1 - 1
+46,6,28/09/2025 15:15,Stade Raymond Kopa,Angers SCO,Stade Brestois 29,0 - 2
+47,6,28/09/2025 15:15,Stade Pierre-Mauroy,LOSC Lille,Olympique Lyonnais,0 - 1
+49,6,28/09/2025 15:15,Stade Saint-Symphorien,FC Metz,Havre Athletic Club,0 - 0
+52,6,28/09/2025 18:45,Roazhon Park,Stade Rennais FC,RC Lens,0 - 0
+62,7,03/10/2025 18:45,Stade Charléty,Paris FC,FC Lorient,2 - 0
+60,7,04/10/2025 15:00,Stade Saint-Symphorien,FC Metz,Olympique de Marseille,0 - 3
+56,7,04/10/2025 17:00,Stade Francis-Le Blé,Stade Brestois 29,FC Nantes,0 - 0
+55,7,04/10/2025 19:05,Stade de l'Abbé-Deschamps,AJ Auxerre,RC Lens,1 - 2
+59,7,05/10/2025 13:00,Parc Olympique Lyonnais,Olympique Lyonnais,Toulouse FC,1 - 2
+57,7,05/10/2025 15:15,Stade Océane,Havre Athletic Club,Stade Rennais FC,2 - 2
+61,7,05/10/2025 15:15,Stade Louis II,AS Monaco,OGC Nice,2 - 2
+63,7,05/10/2025 15:15,Stade de la Meinau,RC Strasbourg Alsace,Angers SCO,5 - 0
+58,7,05/10/2025 18:45,Stade Pierre-Mauroy,LOSC Lille,Paris Saint-Germain,1 - 1
+70,8,17/10/2025 18:45,Parc des Princes,Paris Saint-Germain,RC Strasbourg Alsace,3 - 3
+69,8,18/10/2025 15:00,Allianz Riviera,OGC Nice,Olympique Lyonnais,3 - 2
+64,8,18/10/2025 17:00,Stade Raymond Kopa,Angers SCO,AS Monaco,1 - 1
+67,8,18/10/2025 19:05,Stade Vélodrome,Olympique de Marseille,Havre Athletic Club,6 - 2
+65,8,19/10/2025 13:00,Stade Bollaert-Delelis,RC Lens,Paris FC,2 - 1
+66,8,19/10/2025 15:15,Stade du Moustoir,FC Lorient,Stade Brestois 29,3 - 3
+71,8,19/10/2025 15:15,Roazhon Park,Stade Rennais FC,AJ Auxerre,2 - 2
+72,8,19/10/2025 15:15,Stadium de Toulouse,Toulouse FC,FC Metz,4 - 0
+68,8,19/10/2025 18:45,Stade de la Beaujoire,FC Nantes,LOSC Lille,0 - 2
+80,9,24/10/2025 18:45,Stade Charléty,Paris FC,FC Nantes,1 - 2
+75,9,25/10/2025 15:00,Stade Francis-Le Blé,Stade Brestois 29,Paris Saint-Germain,0 - 3
+79,9,25/10/2025 17:00,Stade Louis II,AS Monaco,Toulouse FC,1 - 0
+76,9,25/10/2025 19:05,Stade Bollaert-Delelis,RC Lens,Olympique de Marseille,2 - 1
+77,9,26/10/2025 14:00,Stade Pierre-Mauroy,LOSC Lille,FC Metz,6 - 1
+73,9,26/10/2025 16:15,Stade Raymond Kopa,Angers SCO,FC Lorient,2 - 0
+74,9,26/10/2025 16:15,Stade de l'Abbé-Deschamps,AJ Auxerre,Havre Athletic Club,0 - 1
+81,9,26/10/2025 16:15,Roazhon Park,Stade Rennais FC,OGC Nice,1 - 2
+78,9,26/10/2025 19:45,Parc Olympique Lyonnais,Olympique Lyonnais,RC Strasbourg Alsace,2 - 1
+82,10,29/10/2025 18:00,Stade Océane,Havre Athletic Club,Stade Brestois 29,1 - 0
+83,10,29/10/2025 18:00,Stade du Moustoir,FC Lorient,Paris Saint-Germain,1 - 1
+85,10,29/10/2025 18:00,Stade Saint-Symphorien,FC Metz,RC Lens,2 - 0
+87,10,29/10/2025 18:00,Allianz Riviera,OGC Nice,LOSC Lille,2 - 0
+84,10,29/10/2025 20:05,Stade Vélodrome,Olympique de Marseille,Angers SCO,2 - 2
+86,10,29/10/2025 20:05,Stade de la Beaujoire,FC Nantes,AS Monaco,3 - 5
+88,10,29/10/2025 20:05,Stade Charléty,Paris FC,Olympique Lyonnais,3 - 3
+89,10,29/10/2025 20:05,Stade de la Meinau,RC Strasbourg Alsace,AJ Auxerre,3 - 0
+90,10,29/10/2025 20:05,Stadium de Toulouse,Toulouse FC,Stade Rennais FC,2 - 2
+97,11,01/11/2025 16:00,Parc des Princes,Paris Saint-Germain,OGC Nice,1 - 0
+95,11,01/11/2025 18:00,Stade Louis II,AS Monaco,Paris FC,0 - 1
+91,11,01/11/2025 20:05,Stade de l'Abbé-Deschamps,AJ Auxerre,Olympique de Marseille,0 - 1
+98,11,02/11/2025 14:00,Roazhon Park,Stade Rennais FC,RC Strasbourg Alsace,4 - 1
+93,11,02/11/2025 16:15,Stade Bollaert-Delelis,RC Lens,FC Lorient,3 - 0
+94,11,02/11/2025 16:15,Stade Pierre-Mauroy,LOSC Lille,Angers SCO,1 - 0
+96,11,02/11/2025 16:15,Stade de la Beaujoire,FC Nantes,FC Metz,0 - 2
+99,11,02/11/2025 16:15,Stadium de Toulouse,Toulouse FC,Havre Athletic Club,0 - 0
+92,11,02/11/2025 19:45,Stade Francis-Le Blé,Stade Brestois 29,Olympique Lyonnais,0 - 0
+107,12,07/11/2025 19:45,Stade Charléty,Paris FC,Stade Rennais FC,0 - 1
+104,12,08/11/2025 16:00,Stade Vélodrome,Olympique de Marseille,Stade Brestois 29,3 - 0
+101,12,08/11/2025 18:00,Stade Océane,Havre Athletic Club,FC Nantes,1 - 1
+106,12,08/11/2025 20:05,Stade Louis II,AS Monaco,RC Lens,1 - 4
+102,12,09/11/2025 14:00,Stade du Moustoir,FC Lorient,Toulouse FC,1 - 1
+100,12,09/11/2025 16:15,Stade Raymond Kopa,Angers SCO,AJ Auxerre,2 - 0
+105,12,09/11/2025 16:15,Stade Saint-Symphorien,FC Metz,OGC Nice,2 - 1
+108,12,09/11/2025 16:15,Stade de la Meinau,RC Strasbourg Alsace,LOSC Lille,2 - 0
+103,12,09/11/2025 19:45,Parc Olympique Lyonnais,Olympique Lyonnais,Paris Saint-Germain,2 - 3
+114,13,21/11/2025 19:45,Allianz Riviera,OGC Nice,Olympique de Marseille,1 - 5
+111,13,22/11/2025 16:00,Stade Bollaert-Delelis,RC Lens,RC Strasbourg Alsace,1 - 0
+116,13,22/11/2025 18:00,Roazhon Park,Stade Rennais FC,AS Monaco,4 - 1
+115,13,22/11/2025 20:05,Parc des Princes,Paris Saint-Germain,Havre Athletic Club,3 - 0
+109,13,23/11/2025 14:00,Stade de l'Abbé-Deschamps,AJ Auxerre,Olympique Lyonnais,0 - 0
+110,13,23/11/2025 16:15,Stade Francis-Le Blé,Stade Brestois 29,FC Metz,3 - 2
+113,13,23/11/2025 16:15,Stade de la Beaujoire,FC Nantes,FC Lorient,1 - 1
+117,13,23/11/2025 16:15,Stadium de Toulouse,Toulouse FC,Angers SCO,0 - 1
+112,13,23/11/2025 19:45,Stade Pierre-Mauroy,LOSC Lille,Paris FC,4 - 2
+123,14,28/11/2025 19:45,Stade Saint-Symphorien,FC Metz,Stade Rennais FC,0 - 1
+124,14,29/11/2025 16:00,Stade Louis II,AS Monaco,Paris Saint-Germain,1 - 0
+125,14,29/11/2025 18:00,Stade Charléty,Paris FC,AJ Auxerre,1 - 1
+122,14,29/11/2025 20:05,Stade Vélodrome,Olympique de Marseille,Toulouse FC,2 - 2
+126,14,30/11/2025 14:00,Stade de la Meinau,RC Strasbourg Alsace,Stade Brestois 29,1 - 2
+118,14,30/11/2025 16:15,Stade Raymond Kopa,Angers SCO,RC Lens,1 - 2
+119,14,30/11/2025 16:15,Stade Océane,Havre Athletic Club,LOSC Lille,0 - 1
+120,14,30/11/2025 16:15,Stade du Moustoir,FC Lorient,OGC Nice,3 - 1
+121,14,30/11/2025 19:45,Parc Olympique Lyonnais,Olympique Lyonnais,FC Nantes,3 - 0
+128,15,05/12/2025 18:00,Stade Francis-Le Blé,Stade Brestois 29,AS Monaco,1 - 0
+129,15,05/12/2025 20:00,Stade Pierre-Mauroy,LOSC Lille,Olympique de Marseille,1 - 0
+135,15,06/12/2025 16:00,Stade de la Beaujoire,FC Nantes,RC Lens,1 - 2
+132,15,06/12/2025 18:00,Stadium de Toulouse,Toulouse FC,RC Strasbourg Alsace,1 - 0
+131,15,06/12/2025 20:05,Parc des Princes,Paris Saint-Germain,Stade Rennais FC,5 - 0
+134,15,07/12/2025 14:00,Allianz Riviera,OGC Nice,Angers SCO,0 - 1
+127,15,07/12/2025 16:15,Stade de l'Abbé-Deschamps,AJ Auxerre,FC Metz,3 - 1
+133,15,07/12/2025 16:15,Stade Océane,Havre Athletic Club,Paris FC,0 - 0
+130,15,07/12/2025 19:45,Stade du Moustoir,FC Lorient,Olympique Lyonnais,1 - 0
+136,16,12/12/2025 19:45,Stade Raymond Kopa,Angers SCO,FC Nantes,4 - 1
+143,16,13/12/2025 16:00,Roazhon Park,Stade Rennais FC,Stade Brestois 29,3 - 1
+141,16,13/12/2025 18:00,Stade Saint-Symphorien,FC Metz,Paris Saint-Germain,2 - 3
+142,16,13/12/2025 20:05,Stade Charléty,Paris FC,Toulouse FC,0 - 3
+139,16,14/12/2025 14:00,Parc Olympique Lyonnais,Olympique Lyonnais,Havre Athletic Club,1 - 0
+137,16,14/12/2025 16:15,Stade de l'Abbé-Deschamps,AJ Auxerre,LOSC Lille,3 - 4
+138,16,14/12/2025 16:15,Stade Bollaert-Delelis,RC Lens,OGC Nice,2 - 0
+144,16,14/12/2025 16:15,Stade de la Meinau,RC Strasbourg Alsace,FC Lorient,0 - 0
+140,16,14/12/2025 19:45,Stade Vélodrome,Olympique de Marseille,AS Monaco,1 - 0
+153,17,02/01/2026 19:45,Stadium de Toulouse,Toulouse FC,RC Lens,0 - 3
+150,17,03/01/2026 16:00,Stade Louis II,AS Monaco,Olympique Lyonnais,1 - 3
+151,17,03/01/2026 18:00,Allianz Riviera,OGC Nice,RC Strasbourg Alsace,1 - 1
+147,17,03/01/2026 20:05,Stade Pierre-Mauroy,LOSC Lille,Stade Rennais FC,0 - 2
+149,17,04/01/2026 14:00,Stade Vélodrome,Olympique de Marseille,FC Nantes,0 - 2
+145,17,04/01/2026 16:15,Stade Francis-Le Blé,Stade Brestois 29,AJ Auxerre,2 - 0
+146,17,04/01/2026 16:15,Stade Océane,Havre Athletic Club,Angers SCO,2 - 1
+148,17,04/01/2026 16:15,Stade du Moustoir,FC Lorient,FC Metz,1 - 1
+152,17,04/01/2026 19:45,Parc des Princes,Paris Saint-Germain,Paris FC,2 - 1
+157,18,16/01/2026 18:00,Stade Louis II,AS Monaco,FC Lorient,1 - 3
+159,18,16/01/2026 20:00,Parc des Princes,Paris Saint-Germain,LOSC Lille,3 - 0
+155,18,17/01/2026 16:00,Stade Bollaert-Delelis,RC Lens,AJ Auxerre,1 - 0
+162,18,17/01/2026 18:00,Stadium de Toulouse,Toulouse FC,OGC Nice,5 - 1
+154,18,17/01/2026 20:05,Stade Raymond Kopa,Angers SCO,Olympique de Marseille,2 - 5
+161,18,18/01/2026 14:00,Stade de la Meinau,RC Strasbourg Alsace,FC Metz,2 - 1
+158,18,18/01/2026 16:15,Stade de la Beaujoire,FC Nantes,Paris FC,1 - 2
+160,18,18/01/2026 16:15,Roazhon Park,Stade Rennais FC,Havre Athletic Club,1 - 1
+156,18,18/01/2026 19:45,Parc Olympique Lyonnais,Olympique Lyonnais,Stade Brestois 29,2 - 1
+163,19,23/01/2026 19:00,Stade de l'Abbé-Deschamps,AJ Auxerre,Paris Saint-Germain,0 - 1
+171,19,24/01/2026 16:00,Roazhon Park,Stade Rennais FC,FC Lorient,0 - 2
+165,19,24/01/2026 18:00,Stade Océane,Havre Athletic Club,AS Monaco,0 - 0
+167,19,24/01/2026 20:05,Stade Vélodrome,Olympique de Marseille,RC Lens,3 - 1
+169,19,25/01/2026 14:00,Stade de la Beaujoire,FC Nantes,OGC Nice,1 - 4
+164,19,25/01/2026 16:15,Stade Francis-Le Blé,Stade Brestois 29,Toulouse FC,0 - 2
+168,19,25/01/2026 16:15,Stade Saint-Symphorien,FC Metz,Olympique Lyonnais,2 - 5
+170,19,25/01/2026 16:15,Stade Charléty,Paris FC,Angers SCO,0 - 0
+166,19,25/01/2026 19:45,Stade Pierre-Mauroy,LOSC Lille,RC Strasbourg Alsace,1 - 4
+173,20,30/01/2026 19:45,Stade Bollaert-Delelis,RC Lens,Havre Athletic Club,1 - 0
+178,20,31/01/2026 16:00,Stade Charléty,Paris FC,Olympique de Marseille,2 - 2
+174,20,31/01/2026 18:00,Stade du Moustoir,FC Lorient,FC Nantes,2 - 1
+176,20,31/01/2026 20:05,Stade Louis II,AS Monaco,Stade Rennais FC,4 - 0
+175,20,01/02/2026 14:00,Parc Olympique Lyonnais,Olympique Lyonnais,LOSC Lille,1 - 0
+172,20,01/02/2026 16:15,Stade Raymond Kopa,Angers SCO,FC Metz,1 - 0
+177,20,01/02/2026 16:15,Allianz Riviera,OGC Nice,Stade Brestois 29,2 - 2
+180,20,01/02/2026 16:15,Stadium de Toulouse,Toulouse FC,AJ Auxerre,0 - 0
+179,20,01/02/2026 19:45,Stade de la Meinau,RC Strasbourg Alsace,Paris Saint-Germain,1 - 2
+186,21,06/02/2026 19:45,Stade Saint-Symphorien,FC Metz,LOSC Lille,0 - 0
+185,21,07/02/2026 16:00,Stade Bollaert-Delelis,RC Lens,Stade Rennais FC,3 - 1
+183,21,07/02/2026 18:00,Stade Francis-Le Blé,Stade Brestois 29,FC Lorient,2 - 0
+187,21,07/02/2026 20:05,Stade de la Beaujoire,FC Nantes,Olympique Lyonnais,0 - 1
+188,21,08/02/2026 14:00,Allianz Riviera,OGC Nice,AS Monaco,0 - 0
+181,21,08/02/2026 16:15,Stade Raymond Kopa,Angers SCO,Toulouse FC,1 - 0
+182,21,08/02/2026 16:15,Stade de l'Abbé-Deschamps,AJ Auxerre,Paris FC,0 - 0
+184,21,08/02/2026 16:15,Stade Océane,Havre Athletic Club,RC Strasbourg Alsace,2 - 1
+189,21,08/02/2026 19:45,Parc des Princes,Paris Saint-Germain,Olympique de Marseille,5 - 0
+198,22,13/02/2026 18:00,Roazhon Park,Stade Rennais FC,Paris Saint-Germain,3 - 1
+196,22,13/02/2026 20:05,Stade Louis II,AS Monaco,FC Nantes,3 - 1
+194,22,14/02/2026 16:00,Stade Vélodrome,Olympique de Marseille,RC Strasbourg Alsace,2 - 2
+191,22,14/02/2026 18:00,Stade Pierre-Mauroy,LOSC Lille,Stade Brestois 29,1 - 1
+197,22,14/02/2026 20:05,Stade Charléty,Paris FC,RC Lens,0 - 5
+190,22,15/02/2026 14:00,Stade Océane,Havre Athletic Club,Toulouse FC,2 - 1
+192,22,15/02/2026 16:15,Stade du Moustoir,FC Lorient,Angers SCO,2 - 0
+195,22,15/02/2026 16:15,Stade Saint-Symphorien,FC Metz,AJ Auxerre,1 - 3
+193,22,15/02/2026 19:45,Parc Olympique Lyonnais,Olympique Lyonnais,OGC Nice,2 - 0
+201,23,20/02/2026 19:45,Stade Francis-Le Blé,Stade Brestois 29,Olympique de Marseille,2 - 0
+202,23,21/02/2026 16:00,Stade Bollaert-Delelis,RC Lens,AS Monaco,2 - 3
+207,23,21/02/2026 18:00,Stadium de Toulouse,Toulouse FC,Paris FC,1 - 1
+205,23,21/02/2026 20:05,Parc des Princes,Paris Saint-Germain,FC Metz,3 - 0
+200,23,22/02/2026 14:00,Stade de l'Abbé-Deschamps,AJ Auxerre,Stade Rennais FC,0 - 3
+199,23,22/02/2026 16:15,Stade Raymond Kopa,Angers SCO,LOSC Lille,0 - 1
+203,23,22/02/2026 16:15,Stade de la Beaujoire,FC Nantes,Havre Athletic Club,2 - 0
+204,23,22/02/2026 16:15,Allianz Riviera,OGC Nice,FC Lorient,3 - 3
+206,23,22/02/2026 19:45,Stade de la Meinau,RC Strasbourg Alsace,Olympique Lyonnais,3 - 1
+216,24,27/02/2026 19:45,Stade de la Meinau,RC Strasbourg Alsace,RC Lens,1 - 1
+215,24,28/02/2026 16:00,Roazhon Park,Stade Rennais FC,Toulouse FC,
+213,24,28/02/2026 18:00,Stade Louis II,AS Monaco,Angers SCO,
+208,24,28/02/2026 20:05,Stade Océane,Havre Athletic Club,Paris Saint-Germain,
+214,24,01/03/2026 14:00,Stade Charléty,Paris FC,OGC Nice,
+209,24,01/03/2026 16:15,Stade Pierre-Mauroy,LOSC Lille,FC Nantes,
+210,24,01/03/2026 16:15,Stade du Moustoir,FC Lorient,AJ Auxerre,
+212,24,01/03/2026 16:15,Stade Saint-Symphorien,FC Metz,Stade Brestois 29,
+211,24,01/03/2026 19:45,Stade Vélodrome,Olympique de Marseille,Olympique Lyonnais,
+224,25,06/03/2026 19:45,Parc des Princes,Paris Saint-Germain,AS Monaco,
+222,25,07/03/2026 16:00,Stade de la Beaujoire,FC Nantes,Angers SCO,
+217,25,07/03/2026 18:00,Stade de l'Abbé-Deschamps,AJ Auxerre,RC Strasbourg Alsace,
+225,25,07/03/2026 20:05,Stadium de Toulouse,Toulouse FC,Olympique de Marseille,
+219,25,08/03/2026 14:00,Stade Bollaert-Delelis,RC Lens,FC Metz,
+218,25,08/03/2026 16:15,Stade Francis-Le Blé,Stade Brestois 29,Havre Athletic Club,
+220,25,08/03/2026 16:15,Stade Pierre-Mauroy,LOSC Lille,FC Lorient,
+223,25,08/03/2026 16:15,Allianz Riviera,OGC Nice,Stade Rennais FC,
+221,25,08/03/2026 19:45,Parc Olympique Lyonnais,Olympique Lyonnais,Paris FC,
+226,26,14/03/2026 23:00,Stade Raymond Kopa,Angers SCO,OGC Nice,
+227,26,14/03/2026 23:00,Stade Océane,Havre Athletic Club,Olympique Lyonnais,
+228,26,14/03/2026 23:00,Stade du Moustoir,FC Lorient,RC Lens,
+229,26,14/03/2026 23:00,Stade Vélodrome,Olympique de Marseille,AJ Auxerre,
+230,26,14/03/2026 23:00,Stade Saint-Symphorien,FC Metz,Toulouse FC,
+231,26,14/03/2026 23:00,Stade Louis II,AS Monaco,Stade Brestois 29,
+232,26,14/03/2026 23:00,Parc des Princes,Paris Saint-Germain,FC Nantes,
+233,26,14/03/2026 23:00,Roazhon Park,Stade Rennais FC,LOSC Lille,
+234,26,14/03/2026 23:00,Stade de la Meinau,RC Strasbourg Alsace,Paris FC,
+235,27,21/03/2026 23:00,Stade de l'Abbé-Deschamps,AJ Auxerre,Stade Brestois 29,
+236,27,21/03/2026 23:00,Stade Bollaert-Delelis,RC Lens,Angers SCO,
+237,27,21/03/2026 23:00,Parc Olympique Lyonnais,Olympique Lyonnais,AS Monaco,
+238,27,21/03/2026 23:00,Stade Vélodrome,Olympique de Marseille,LOSC Lille,
+239,27,21/03/2026 23:00,Stade de la Beaujoire,FC Nantes,RC Strasbourg Alsace,
+240,27,21/03/2026 23:00,Allianz Riviera,OGC Nice,Paris Saint-Germain,
+241,27,21/03/2026 23:00,Stade Charléty,Paris FC,Havre Athletic Club,
+242,27,21/03/2026 23:00,Roazhon Park,Stade Rennais FC,FC Metz,
+243,27,21/03/2026 23:00,Stadium de Toulouse,Toulouse FC,FC Lorient,
+244,28,04/04/2026 22:00,Stade Raymond Kopa,Angers SCO,Olympique Lyonnais,
+245,28,04/04/2026 22:00,Stade Francis-Le Blé,Stade Brestois 29,Stade Rennais FC,
+246,28,04/04/2026 22:00,Stade Océane,Havre Athletic Club,AJ Auxerre,
+247,28,04/04/2026 22:00,Stade Pierre-Mauroy,LOSC Lille,RC Lens,
+248,28,04/04/2026 22:00,Stade du Moustoir,FC Lorient,Paris FC,
+249,28,04/04/2026 22:00,Stade Saint-Symphorien,FC Metz,FC Nantes,
+250,28,04/04/2026 22:00,Stade Louis II,AS Monaco,Olympique de Marseille,
+251,28,04/04/2026 22:00,Parc des Princes,Paris Saint-Germain,Toulouse FC,
+252,28,04/04/2026 22:00,Stade de la Meinau,RC Strasbourg Alsace,OGC Nice,
+253,29,11/04/2026 22:00,Stade de l'Abbé-Deschamps,AJ Auxerre,FC Nantes,
+254,29,11/04/2026 22:00,Stade Francis-Le Blé,Stade Brestois 29,RC Strasbourg Alsace,
+255,29,11/04/2026 22:00,Stade Bollaert-Delelis,RC Lens,Paris Saint-Germain,
+256,29,11/04/2026 22:00,Parc Olympique Lyonnais,Olympique Lyonnais,FC Lorient,
+257,29,11/04/2026 22:00,Stade Vélodrome,Olympique de Marseille,FC Metz,
+258,29,11/04/2026 22:00,Allianz Riviera,OGC Nice,Havre Athletic Club,
+259,29,11/04/2026 22:00,Stade Charléty,Paris FC,AS Monaco,
+260,29,11/04/2026 22:00,Roazhon Park,Stade Rennais FC,Angers SCO,
+261,29,11/04/2026 22:00,Stadium de Toulouse,Toulouse FC,LOSC Lille,
+262,30,18/04/2026 22:00,Stade Raymond Kopa,Angers SCO,Havre Athletic Club,
+263,30,18/04/2026 22:00,Stade Bollaert-Delelis,RC Lens,Toulouse FC,
+264,30,18/04/2026 22:00,Stade Pierre-Mauroy,LOSC Lille,OGC Nice,
+265,30,18/04/2026 22:00,Stade du Moustoir,FC Lorient,Olympique de Marseille,
+266,30,18/04/2026 22:00,Stade Saint-Symphorien,FC Metz,Paris FC,
+267,30,18/04/2026 22:00,Stade Louis II,AS Monaco,AJ Auxerre,
+268,30,18/04/2026 22:00,Stade de la Beaujoire,FC Nantes,Stade Brestois 29,
+269,30,18/04/2026 22:00,Parc des Princes,Paris Saint-Germain,Olympique Lyonnais,
+270,30,18/04/2026 22:00,Stade de la Meinau,RC Strasbourg Alsace,Stade Rennais FC,
+271,31,25/04/2026 22:00,Stade Raymond Kopa,Angers SCO,Paris Saint-Germain,
+272,31,25/04/2026 22:00,Stade Francis-Le Blé,Stade Brestois 29,RC Lens,
+273,31,25/04/2026 22:00,Stade Océane,Havre Athletic Club,FC Metz,
+274,31,25/04/2026 22:00,Stade du Moustoir,FC Lorient,RC Strasbourg Alsace,
+275,31,25/04/2026 22:00,Parc Olympique Lyonnais,Olympique Lyonnais,AJ Auxerre,
+276,31,25/04/2026 22:00,Stade Vélodrome,Olympique de Marseille,OGC Nice,
+277,31,25/04/2026 22:00,Stade Charléty,Paris FC,LOSC Lille,
+278,31,25/04/2026 22:00,Roazhon Park,Stade Rennais FC,FC Nantes,
+279,31,25/04/2026 22:00,Stadium de Toulouse,Toulouse FC,AS Monaco,
+280,32,02/05/2026 22:00,Stade de l'Abbé-Deschamps,AJ Auxerre,Angers SCO,
+281,32,02/05/2026 22:00,Stade Pierre-Mauroy,LOSC Lille,Havre Athletic Club,
+282,32,02/05/2026 22:00,Parc Olympique Lyonnais,Olympique Lyonnais,Stade Rennais FC,
+283,32,02/05/2026 22:00,Stade Saint-Symphorien,FC Metz,AS Monaco,
+284,32,02/05/2026 22:00,Stade de la Beaujoire,FC Nantes,Olympique de Marseille,
+285,32,02/05/2026 22:00,Allianz Riviera,OGC Nice,RC Lens,
+286,32,02/05/2026 22:00,Stade Charléty,Paris FC,Stade Brestois 29,
+287,32,02/05/2026 22:00,Parc des Princes,Paris Saint-Germain,FC Lorient,
+288,32,02/05/2026 22:00,Stade de la Meinau,RC Strasbourg Alsace,Toulouse FC,
+289,33,08/05/2026 22:00,Stade Raymond Kopa,Angers SCO,RC Strasbourg Alsace,
+290,33,08/05/2026 22:00,Stade de l'Abbé-Deschamps,AJ Auxerre,OGC Nice,
+291,33,08/05/2026 22:00,Stade Océane,Havre Athletic Club,Olympique de Marseille,
+292,33,08/05/2026 22:00,Stade Bollaert-Delelis,RC Lens,FC Nantes,
+293,33,08/05/2026 22:00,Stade Saint-Symphorien,FC Metz,FC Lorient,
+294,33,08/05/2026 22:00,Stade Louis II,AS Monaco,LOSC Lille,
+295,33,08/05/2026 22:00,Parc des Princes,Paris Saint-Germain,Stade Brestois 29,
+296,33,08/05/2026 22:00,Roazhon Park,Stade Rennais FC,Paris FC,
+297,33,08/05/2026 22:00,Stadium de Toulouse,Toulouse FC,Olympique Lyonnais,
+298,34,15/05/2026 22:00,Stade Francis-Le Blé,Stade Brestois 29,Angers SCO,
+299,34,15/05/2026 22:00,Stade Pierre-Mauroy,LOSC Lille,AJ Auxerre,
+300,34,15/05/2026 22:00,Stade du Moustoir,FC Lorient,Havre Athletic Club,
+301,34,15/05/2026 22:00,Parc Olympique Lyonnais,Olympique Lyonnais,RC Lens,
+302,34,15/05/2026 22:00,Stade Vélodrome,Olympique de Marseille,Stade Rennais FC,
+303,34,15/05/2026 22:00,Stade de la Beaujoire,FC Nantes,Toulouse FC,
+304,34,15/05/2026 22:00,Allianz Riviera,OGC Nice,FC Metz,
+305,34,15/05/2026 22:00,Stade Charléty,Paris FC,Paris Saint-Germain,
+306,34,15/05/2026 22:00,Stade de la Meinau,RC Strasbourg Alsace,AS Monaco,

@@ -12,6 +12,7 @@ dependencies = [
     { name = "mcp" },
     { name = "ollama" },
     { name = "openai" },
+    { name = "openpyxl" },
     { name = "pandas" },
     { name = "python-dotenv" },
     { name = "scipy" },
@@ -25,6 +26,7 @@ requires-dist = [
     { name = "mcp", specifier = ">=1.21.1" },
     { name = "ollama", specifier = ">=0.6.0" },
     { name = "openai", specifier = ">=2.4.0" },
+    { name = "openpyxl", specifier = ">=3.1.5" },
     { name = "pandas", specifier = ">=2.3.3" },
     { name = "python-dotenv", specifier = ">=1.1.1" },
     { name = "scipy", specifier = ">=1.17.0" },
@@ -317,6 +319,15 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/b2/9d/c3b43da9515bd270df0f80548d9944e389870713cc1fe2b8fb35fe2bcefd/docstring_parser-0.17.0.tar.gz", hash = "sha256:583de4a309722b3315439bb31d64ba3eebada841f2e2cee23b99df001434c912", size = 27442, upload-time = "2025-07-21T07:35:01.868Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/55/e2/2537ebcff11c1ee1ff17d8d0b6f4db75873e3b0fb32c2d4a2ee31ecb310a/docstring_parser-0.17.0-py3-none-any.whl", hash = "sha256:cf2569abd23dce8099b300f9b4fa8191e9582dda731fd533daf54c4551658708", size = 36896, upload-time = "2025-07-21T07:35:00.684Z" },
+]
+
+[[package]]
+name = "et-xmlfile"
+version = "2.0.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/d3/38/af70d7ab1ae9d4da450eeec1fa3918940a5fafb9055e934af8d6eb0c2313/et_xmlfile-2.0.0.tar.gz", hash = "sha256:dab3f4764309081ce75662649be815c4c9081e88f0837825f90fd28317d4da54", size = 17234, upload-time = "2024-10-25T17:25:40.039Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/c1/8b/5fe2cc11fee489817272089c4203e679c63b570a5aaeb18d852ae3cbba6a/et_xmlfile-2.0.0-py3-none-any.whl", hash = "sha256:7a91720bc756843502c3b7504c77b8fe44217c85c537d85037f0f536151b2caa", size = 18059, upload-time = "2024-10-25T17:25:39.051Z" },
 ]
 
 [[package]]
@@ -654,6 +665,18 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/ef/24/d0b0f088c39fa75a73292aef24d7436fbc537f12bf6026c6a69a1bfdae6e/openai-2.4.0.tar.gz", hash = "sha256:97860859172b637ffb308433c207a371d4683586ed2b24b360cb4c08cf377d01", size = 591541, upload-time = "2025-10-16T15:14:05.163Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/d8/f6/68a8bbb62c001e5580de6b89372ddab03c3484ac3e251c298a30da094f5e/openai-2.4.0-py3-none-any.whl", hash = "sha256:5099f4fbfa80e7e5785ba52402c580eadba21e6172c85df05455676605ad150f", size = 1003092, upload-time = "2025-10-16T15:14:02.826Z" },
+]
+
+[[package]]
+name = "openpyxl"
+version = "3.1.5"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "et-xmlfile" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/3d/f9/88d94a75de065ea32619465d2f77b29a0469500e99012523b91cc4141cd1/openpyxl-3.1.5.tar.gz", hash = "sha256:cf0e3cf56142039133628b5acffe8ef0c12bc902d2aadd3e0fe5878dc08d1050", size = 186464, upload-time = "2024-06-28T14:03:44.161Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/c0/da/977ded879c29cbd04de313843e76868e6e13408a94ed6b987245dc7c8506/openpyxl-3.1.5-py2.py3-none-any.whl", hash = "sha256:5282c12b107bffeef825f4617dc029afaf41d0ea60823bbb665ef3079dc79de2", size = 250910, upload-time = "2024-06-28T14:03:41.161Z" },
 ]
 
 [[package]]
